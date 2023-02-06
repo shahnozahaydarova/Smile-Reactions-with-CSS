@@ -2,7 +2,7 @@
 
 # Smile reactions with CSS | Crimson
 
-### <a href="https://https://shreactions.netlify.app/">Link</a>
+### <a href="https://shreactions.netlify.app/">Link</a>
 
 <img src="admin/base.png">
 
