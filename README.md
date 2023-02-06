@@ -1,6 +1,6 @@
 <div align="center">
 
-# Smile reactions with CSS | Crimson
+# Smile Reactions with CSS | Crimson
 
 ### <a href="https://shreactions.netlify.app/">Link</a>
 
